@@ -77,16 +77,8 @@ Automated, intelligent, and accessible diagnostic tools for rapid disease identi
 
 ## 🎬 Demo
 
-See PlantDocAI in action! Check out the screenshots in the [`demo/`](./demo) folder:
-
-![PlantDocAI Demo](./demo/screenshot1.png)
-*Interface for image-based disease detection*
-
-![Text Analysis](./demo/screenshot2.png)
-*Natural language symptom analysis*
-
-![Recommendations](./demo/screenshot3.png)
-*AI-generated treatment recommendations*
+See PlantDocAI in action! 
+Check out the screenshots in the [`demo/`](./demo) folder
 
 ---
 
