@@ -1,0 +1,47 @@
+{
+  "Tomato___Early_blight": {
+    "disease_name": "Tomato Early Blight",
+    "severity": "Moderate",
+    "description": "Fungal disease caused by Alternaria solani, creating dark brown spots with concentric rings on lower leaves. Can reduce yield significantly if left untreated.",
+    "treatment": "• Remove infected lower leaves immediately and dispose properly\n• Apply fungicides containing chlorothalonil, mancozeb, or copper\n• Improve air circulation by pruning and spacing plants\n• Apply organic mulch to prevent soil splash onto leaves\n• Water at the base of plants in the morning",
+    "prevention": "• Rotate crops - don't plant tomatoes in same spot for 3-4 years\n• Use disease-resistant varieties when available\n• Stake or cage plants for better air flow\n• Remove and destroy old plant debris at end of season\n• Avoid overhead watering\n• Apply preventive fungicide early in season\n• Maintain proper plant nutrition for strong immunity",
+    "organic_solutions": "• Baking soda spray: 1 tbsp baking soda + 1 tsp dish soap per gallon water\n• Neem oil application weekly during humid weather\n• Compost tea foliar spray for beneficial microbes\n• Copper fungicide (OMRI approved for organic gardening)\n• Milk spray: 1 part milk to 9 parts water\n• Apply sulfur-based organic fungicide",
+    "care_instructions": "• Monitor plants daily for new symptoms on lower leaves\n• Water deeply 1-2 inches per week, adjust based on rainfall\n• Apply balanced fertilizer (5-10-10) every 2-3 weeks\n• Mulch with 2-3 inches of organic material\n• Remove weeds that can harbor disease"
+  },
+  "Tomato___Late_blight": {
+    "disease_name": "Tomato Late Blight",
+    "severity": "Very High",
+    "description": "Devastating fungal disease caused by Phytophthora infestans. The same pathogen that caused the Irish Potato Famine. Can destroy entire crops within days in humid conditions.",
+    "treatment": "• Act immediately - this disease spreads extremely fast\n• Remove and destroy all infected plants (do NOT compost)\n• Apply fungicides containing chlorothalonil or mancozeb every 5-7 days\n• Isolate affected area from healthy plants\n• Monitor all nearby tomato and potato plants closely\n• In severe cases, remove all plants in affected area",
+    "prevention": "• Plant resistant varieties (check your region's recommendations)\n• Ensure excellent air circulation between plants\n• Never work with plants when wet\n• Apply preventive fungicides before disease appears\n• Remove volunteer tomato and potato plants\n• Monitor weather forecasts - late blight thrives in cool, wet conditions\n• Space plants wider than usual (3-4 feet apart)",
+    "organic_solutions": "• Copper-based fungicides applied preventively\n• Remove infected material immediately\n• Bacillus subtilis biological fungicide\n• Unfortunately, organic controls are limited - focus on prevention\n• Consider growing in hoop houses or greenhouses for better control",
+    "care_instructions": "• ⚠️ URGENT: Check plants twice daily during humid weather\n• Remove any suspicious leaves immediately\n• Water only in morning to allow foliage to dry\n• Consider removing plants if disease is widespread\n• Alert neighboring gardeners if late blight is confirmed"
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_name": "Tomato Bacterial Spot",
+    "severity": "Moderate to High",
+    "description": "Bacterial disease caused by Xanthomonas species, creating small dark spots with yellow halos on leaves and fruit. Spreads rapidly in warm, wet conditions.",
+    "treatment": "• Remove and destroy severely infected plants\n• Apply copper-based bactericides at first sign\n• Reduce overhead watering immediately\n• Thin plants to improve air circulation\n• Disinfect tools between plants with 10% bleach solution",
+    "prevention": "• Use certified disease-free seeds and transplants\n• Practice 3-4 year crop rotation\n• Avoid working with plants when wet\n• Space plants adequately (24-36 inches)\n• Use drip irrigation instead of sprinklers\n• Remove plant debris at end of season\n• Choose resistant varieties for your area",
+    "organic_solutions": "• Copper soap spray applications\n• Bacillus subtilis or Bacillus amyloliquefaciens products\n• Remove infected leaves promptly\n• Improve drainage and air circulation\n• Acibenzolar-S-methyl (activates plant immune system)",
+    "care_instructions": "• Water at soil level only, never wet foliage\n• Monitor plants during warm, humid periods\n• Maintain plant vigor with proper nutrition\n• Sanitize tools after each use\n• Avoid handling plants when wet from dew or rain"
+  },
+  "Apple___Apple_scab": {
+    "disease_name": "Apple Scab",
+    "severity": "Moderate to High",
+    "description": "Fungal disease caused by Venturia inaequalis, creating olive-green to brown lesions on leaves and fruit. Most severe in areas with cool, wet springs.",
+    "treatment": "• Rake and destroy all fallen leaves (primary infection source)\n• Apply fungicides from green tip through petal fall\n• Prune to improve air circulation and light penetration\n• Remove severely infected fruit and twigs\n• Continue fungicide applications through June in wet years",
+    "prevention": "• Plant scab-resistant apple varieties (Liberty, Freedom, Enterprise)\n• Rake and destroy fallen leaves in autumn\n• Maintain 20-30 foot spacing between trees\n• Prune trees annually to improve air flow\n• Apply dormant oil spray in early spring\n• Mulch with wood chips (not leaves)\n• Monitor weather for infection periods",
+    "organic_solutions": "• Sulfur-based fungicides (apply before rain)\n• Neem oil during growing season\n• Bordeaux mixture (copper + lime)\n• Baking soda spray (5 tbsp per gallon)\n• Potassium bicarbonate fungicide\n• Remove leaf litter to break disease cycle",
+    "care_instructions": "• Scout trees weekly during spring for first symptoms\n• Water at tree base, avoid wetting foliage\n• Apply balanced fertilizer in early spring\n• Thin fruit to prevent overcrowding\n• Maintain proper tree structure through pruning"
+  },
+  "Pepper___Bacterial_spot": {
+    "disease_name": "Pepper Bacterial Spot",
+    "severity": "Moderate",
+    "description": "Bacterial disease causing leaf spots and fruit lesions on pepper plants. Can significantly reduce yield and fruit quality.",
+    "treatment": "• Remove infected leaves and destroy them\n• Apply copper bactericides weekly\n• Avoid overhead irrigation\n• Increase spacing between plants if possible\n• Disinfect pruning tools between plants",
+    "prevention": "• Start with certified disease-free seeds\n• Rotate peppers with non-solanaceous crops\n• Use drip irrigation or soaker hoses\n• Avoid working in garden when plants are wet\n• Space plants 18-24 inches apart\n• Choose resistant varieties when available",
+    "organic_solutions": "• Copper-based organic bactericides\n• Biological controls with Bacillus species\n• Garlic extract spray\n• Remove and destroy infected plant material\n• Improve soil health with compost",
+    "care_instructions": "• Inspect plants regularly, especially after rain\n• Water early in the day at soil level\n• Maintain consistent soil moisture\n• Fertilize with balanced organic fertilizer\n• Mulch to prevent soil splash"
+  }
+}
