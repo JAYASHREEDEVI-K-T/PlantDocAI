@@ -24,9 +24,9 @@ export default function Footer() {
           </div>
           
           <div>
-            <h4 className="font-semibold mb-4">Visit us on </h4>
+            <h4 className="font-semibold mb-4">By: </h4>
             <p className="text-gray-400">
-              https://plantDoc.ai
+              https://github.com/JAYASHREEDEVI-K-T
             </p>
           </div>
         </div>
